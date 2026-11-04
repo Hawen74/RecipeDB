@@ -42,7 +42,7 @@ The design has nine tables: Household, User, Recipe, Recipe_Step, Ingredient, Ca
 ```
 database-design-project/
 ├── README.md
-├── design
+├── design/
     ├── EER_Diagram_RecipeMealPlanning.pdf
     ├── EER_Diagram_RecipeMealPlanning.png
 ├── sql/
