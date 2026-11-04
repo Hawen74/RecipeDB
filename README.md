@@ -23,7 +23,7 @@ The database was created to reduce the time spent searching for recipes and deci
 - Primary keys, foreign keys, and junction tables that keep data consistent and reduce duplication (3NF)
 
 ## Database Design
-![EER Diagram](EER_Diagram_RecipeMealPlanning.png)
+link later
 
 The design has nine tables: Household, User, Recipe, Recipe_Step, Ingredient, Category, and three junction tables (Recipe_Ingredient, Recipe_Category, Favorite).
 
@@ -71,5 +71,5 @@ database-design-project/
 ## Team Contributions
 | Team member | Responsibilities |
 |---|---|
-| Your Name | Requirements analysis, table and relationship design, EER diagram, sample data, README |
+| Huy Nguyen Gia Le | Requirements analysis, table and relationship design, EER diagram, sample data, README |
 | Teammate Name | (Add responsibilities, or delete this row if working alone) |
