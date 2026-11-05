@@ -23,7 +23,8 @@ The database was created to reduce the time spent searching for recipes and deci
 - Primary keys, foreign keys, and junction tables that keep data consistent and reduce duplication (3NF)
 
 ## Database Design
-link later
+<img width="1096" height="793" alt="image" src="https://github.com/user-attachments/assets/75aefd73-db0e-4462-9e7c-7a797329d570" />
+
 
 The design has nine tables: Household, User, Recipe, Recipe_Step, Ingredient, Category, and three junction tables (Recipe_Ingredient, Recipe_Category, Favorite).
 
